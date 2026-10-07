@@ -1,3 +1,5 @@
+> **Superseded.** This plan has been replaced by [`personal-operating-system.md`](personal-operating-system.md), which reflects the updated goals (no triceps specialization, no plates yet, tirzepatide, 3:00 AM schedule). Kept for reference only.
+
 # 12-Week Glute Growth & Body Recomposition Plan
 
 **Client profile:** 21 years old · 5'4" · 171.9 lb · trains 6–7 days/week
