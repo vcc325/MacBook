@@ -2,6 +2,8 @@
 
 **Built for:** a 21-year-old construction company owner · 5'4" · 171.9 lb · down ~34 lb already on 10 mg tirzepatide · wakes at 3:00 AM · trains at home with a 45 lb bar (no plates yet), 3–15 lb dumbbells, 25 lb kettlebell, 10–15 lb vest, bands, ab wheel, jump rope, mat + reformer, Peloton Bike + Tread · wants rounder glutes, a smaller waist, visible abs, leaner arms, a licensed and growing business, and all her books read.
 
+**Anchor (decided Oct 7 after Day 1): wake 4:30 AM, lights out 9:15 PM.** The system was first drafted around 3:00, but Day 1 showed a real day that started at 7:00 with supply runs and a crew managed by phone. A 4-hour jump fails at bedtime, not at the alarm, so the anchor is 4:30 with an earn-earlier rule: 14 straight days of lights out by 9:15 and up at 4:30 (one Red day allowed) moves the anchor 30 minutes earlier for the next 14 days. The Google Calendar is built on 4:30. Where any time in this document says 3:00/7:45, read 4:30/9:15 and shift the morning blocks by 90 minutes.
+
 **Day 1 = Wednesday, October 7, 2026.** Week 1 is a long first week: five launch days (Wed Oct 7 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
 
 **This is a lifestyle, not a program.** The 12-week block is how progress gets measured and how training gets adjusted. The operating system itself (sleep, food, the walk, the morning, the business blocks, the Sunday reset) does not end. Section 26 maps the long arc: build the glutes, abs, and a tight upper body first; then shift to maintenance so the freed-up time and recovery go to calisthenics, yoga, flexibility, and athleticism.
@@ -146,33 +148,34 @@ One checkmark per tier is a successful day:
 
 **Sleep math:** lights out **7:45 PM** → wake **3:00 AM** = 7 h 15 min in bed, about 7 h asleep. Bedroom at 7:30 PM. Wind-down starts 7:00 PM. Nothing in the evening is allowed to push 7:45.
 
-**Calendar version (what is actually on your Google Calendar).** Your Construction Work calendar already has "Check HQ / Load Truck" at 6:20 and "Leave for Job Site" at 7:10 with a 30–35 min commute, on site by 7:45. The calendar is built around that reality, so the morning ends at 6:20 and the evening starts when you are home at about 5:05:
+**Calendar version (what is actually on your Google Calendar, 4:30 anchor).** Your real day starts around 8:00 with a crew check by phone or on site, so the morning runs 4:30–7:45 and the evening has a protected flex block:
 
 | Time | Weekday block on the calendar |
 |---|---|
-| 3:00–3:25 | Wake routine |
-| 3:25–4:35 | Training |
-| 4:35–5:00 | Cool-down flow + breakfast + floss |
-| 5:00–5:25 | Shower, skincare, hair, dressed |
-| 5:25–6:15 | License study (50 min; the other 10 min of flashcards is at lunch) |
-| 6:20–6:50 | Check HQ / load truck (existing) |
-| 6:50–7:10 | Day plan: top 3 + crew plan |
-| 7:10–7:45 | Commute (existing) |
-| 7:45–8:15 | Ops start |
-| 8:15–10:00 | Block A |
-| 10:00–10:30 | Buffer 1 |
-| 10:30–12:00 | Field / production |
-| 12:00–12:45 | Lunch + 10 min flashcards + 10 min Italian |
-| 12:45–2:30 | Block B |
-| 2:30–3:00 | Buffer 2 + protein snack + late-day decision |
-| 3:00–4:00 | Admin (Fri: cash-flow review) |
-| 4:00–4:30 | Shutdown, then drive home |
-| 5:10–5:40 | Treadmill walk |
-| 5:40–6:15 | Dinner + kitchen reset |
-| 6:15–6:35 | 10-min reset + lay out tomorrow |
-| 6:35–7:05 | Reading |
-| 7:05–7:30 | Evening self-care, floss, phone out |
-| 7:30–7:45 | In bed, lights out 7:45 |
+| 4:30–4:55 | Wake routine |
+| 4:55–6:05 | Training |
+| 6:05–6:30 | Cool-down flow + breakfast + floss |
+| 6:30–6:55 | Shower, skincare, hair, dressed |
+| 6:55–7:45 | License study (50 min; 10 min of flashcards at lunch) |
+| 7:45–8:00 | Day plan: top 3 + crew plan (load the truck if it is an on-site day) |
+| 8:00–8:30 | Ops start: crew check by phone or site |
+| 8:30–10:15 | Block A |
+| 10:15–10:45 | Buffer 1 |
+| 10:45–12:15 | Field / production (supply runs batched here) |
+| 12:15–1:00 | Lunch + 10 min flashcards + 10 min Italian |
+| 1:00–2:45 | Block B |
+| 2:45–3:15 | Buffer 2 + protein snack + late-day decision |
+| 3:15–4:15 | Admin (Fri: cash-flow review) |
+| 4:15–4:45 | Shutdown + mail (5 min) |
+| 5:15–5:45 | Treadmill walk |
+| 5:45–6:20 | Dinner + kitchen reset |
+| 6:20–6:40 | 10-min reset + lay out tomorrow |
+| 6:40–7:10 | Reading |
+| 7:10–8:40 | **Flex: errands, family, overflow, or nothing** |
+| 8:40–9:05 | Evening self-care, floss, phone out |
+| 9:00–9:15 | In bed, lights out 9:15 |
+
+Saturday: train 4:55–5:50, study 7:00–8:30, business catch-up 8:30–9:30, Future block 9:30–11:00, deeper clean 11:00–11:45, walk 11:45. Sunday: wake by 5:30, Book B 5:30, business review 6:00, money 6:30, heated Pilates ~8:00–10:00, meal prep 10:00, clean 11:30, walk 1:00, ice bath 1:30 (from Nov 8), self-care hour 1:50, Monday prep 3:00, yoga 3:30, reflection 6:15.
 
 The table below is the original design; where the two differ, the calendar version wins because it matches your commute.
 
@@ -280,6 +283,8 @@ The whole point of a 3:00 AM morning is that it is **pre-decided**. Nothing is c
 ## 4. The Nighttime Routine and Sleep Protection Rule
 
 ### Bedtime math
+
+**Current anchor: lights out 9:15 PM → wake 4:30 AM (7 h 15 min).** Yellow = lights out 9:45 → wake 5:00. Red = 10:15 → 5:30. Earn-earlier rule: 14 clean days moves the anchor 30 min earlier. The original 3:00 table is kept below as the end state.
 
 | In bed by | Lights out | Wake | Time in bed |
 |---|---|---|---|
