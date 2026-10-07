@@ -4,6 +4,8 @@
 
 **Day 1 = Wednesday, October 7, 2026.** Week 1 is a long first week: five launch days (Wed Oct 7 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
 
+**This is a lifestyle, not a program.** The 12-week block is how progress gets measured and how training gets adjusted. The operating system itself (sleep, food, the walk, the morning, the business blocks, the Sunday reset) does not end. Section 26 maps the long arc: build the glutes, abs, and a tight upper body first; then shift to maintenance so the freed-up time and recovery go to calisthenics, yoga, flexibility, and athleticism.
+
 This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a triceps specialization you no longer want and assumed plates you do not have yet. Everything you still need from it is rebuilt here.
 
 ---
@@ -36,6 +38,7 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 23. 6–12 month roadmap
 24. Equipment purchase priority
 25. What to discuss with your prescribing clinician
+26. The lifestyle arc: build, then athletic (calisthenics, yoga, flexibility)
 
 ---
 
@@ -1093,3 +1096,60 @@ Bring this list to your next appointment. These are the things a clinician shoul
 ## Final note
 
 This system is ambitious, and it is also forgiving by design. The non-negotiables are small (bed, face, water, protein, walk, 10 pages, floss, reset, sleep). Everything larger has a Yellow and a Red version. The glute program needs plates in your hands within two weeks; the business needs its buffers; the license needs its 7 hours; your body needs 7 hours and 150 grams. Hold those, and the rest compounds.
+
+---
+
+## 26. The Lifestyle Arc: Build, Then Athletic
+
+### How the arc works
+
+Muscle is expensive to build and cheap to keep. Building the glutes you want takes 9–12 months of heavy, progressive, 3-sessions-a-week work. **Keeping** them takes roughly a third to a half of that volume, as long as the loads stay heavy. That difference is the whole plan: once the glutes, abs, and upper body are where you want them, two of the three lower-body sessions and most of the accessory volume hand their time to calisthenics skills, yoga, and flexibility. You do not stop lifting. You lift less often and heavier, and the rest of the week becomes athletic.
+
+| Season | When | Lower body | Upper body | Core | Calisthenics | Yoga / flexibility | Cardio |
+|---|---|---|---|---|---|---|---|
+| **Build 1** | Oct 2026 – Jan 2027 (this block + deload) | 3 glute sessions, heavy progression | 2 sessions, tighten and maintain | 4 exposures, ab wheel to kneeling full | Foundations only (below) | 10-min cool-down flow daily, 30 min Sunday | 6 mi run, 1 ride, 1 HIIT, daily walk |
+| **Build 2** | Jan – Apr 2027 | Same structure, Stage 2 equipment, heavier | Same, add pull-up progression when the rack arrives | Standing ab wheel partials | Pull-up negatives, pike push-ups, L-sit tucks inside upper days | Same + one 20-min evening flow on Saturday | Same |
+| **Build 3** | Apr – Jul 2027 | Same; possibly a maintenance-calorie phase with your clinician so glutes grow fastest | Same | | First pull-up; handstand wall holds | 2 × 30 min yoga weekly (Wed replaces the Rhythm Ride every other week) | Same |
+| **Assess** | Jul 2027 | Honest check: hips vs. waist vs. photos vs. lifts. Are the glutes where you want them? If yes, enter Athletic. If not, one more Build block | | | | | |
+| **Athletic (maintain + skills)** | From ~Aug 2027, indefinitely | **2 heavy sessions/week** (Mon: hip thrust + squat; Thu: RDL + unilateral), 2–3 hard sets each, loads kept at or above Build 3 | Folded into calisthenics | Folded into calisthenics | **2 skill sessions/week** (Tue, Sat): pull-ups, dips, pistol squats, L-sit, handstand, rows, push-up variations | **Wed = yoga/flexibility day** (45 min) + 10-min cool-down flow daily + Sunday class (heated Pilates or yoga, alternating) | Running 6–10 mi, 1 ride, 1 HIIT or a sport |
+
+**Maintenance in numbers:** in Athletic season, glute hard sets drop from ~32 to ~12–14 a week. The hip thrust and RDL stay at the loads you finished Build 3 with. If a tape measurement or a lift drops for 4 straight weeks, add one accessory session back for a month. That is the entire maintenance protocol.
+
+### Threads that start now, in small doses
+
+You cannot "get into" calisthenics and yoga later from zero any more than you could glutes. So three threads begin in Build 1 at a size that costs nothing:
+
+**1. Flexibility: the 10-minute cool-down becomes a flow.** Every training day, 4:35–4:45, same sequence, so it becomes automatic:
+- 90/90 hip switches, 1 min
+- Couch stretch (rear-foot-elevated hip flexor), 1 min each side
+- Deep squat hold with elbows pushing knees out, 1 min
+- Seated pike reach (hamstrings), 1 min
+- Seated straddle (pancake) lean, 1 min
+- Pigeon or figure-4, 45 s each side
+- Thoracic rotations on all fours, 10 each side
+- Downward dog to cobra, 5 slow cycles
+
+Add a **30-minute Sunday yoga session** in the free 3:00–5:30 PM block (a Peloton yoga flow or a slow hatha class). From Build 2, add a 20-minute Saturday evening flow. Flexibility goals to track quarterly: palms flat in a forward fold; a full-depth squat with heels down and a tall chest; a 90° straddle; a comfortable 2-minute couch stretch each side. Those four cover most of what yoga will later ask of you.
+
+**2. Calisthenics foundations, inside the sessions you already do.** These replace, not add:
+- Upper A: close-grip push-ups progress toward **pseudo-planche lean push-ups** (hands turned out, shoulders forward of wrists) over months.
+- Upper B: the KB row becomes **inverted rows** under the bar once it sits in a rack, then **dead hangs → scapular pulls → pull-up negatives → first pull-up**. Buy the rack with a pull-up bar (Section 24) for this reason alone.
+- Core A: the ab wheel *is* calisthenics; hollow holds progress toward **L-sit tucks** on the floor or on parallettes.
+- Glute C: Saturday pump stays, but in Build 2 one bodyweight skill enters: **pistol squat progression** (box pistols → assisted → full), which is also a glute and quad exercise.
+- Hard rule in Build seasons: skills get 1–2 sets each, never at the expense of the main lifts. They are seeds.
+
+**3. "Athletic" as a daily habit, not a season.** The run, the jump rope, the HIIT, and the walks already give you an aerobic base. From Build 2, add 5 minutes of **skipping and single-leg hops** to the Saturday warm-up for ankle and tendon stiffness, which is what makes legs look and move athletic.
+
+### What changes when you reach Athletic season
+
+- **The week keeps its shape.** Monday and Thursday are still heavy lower days. Wednesday becomes yoga. Tuesday and Saturday become skill days. Sunday stays the reset. The 3:00 morning, the walk, the reading, and the business blocks do not change.
+- **Body composition is held, not chased.** Calories move to true maintenance. Weight becomes a number you check, not a goal. By then the medication conversation with your clinician (Section 25) is about maintenance or tapering while the training holds the result.
+- **New measurable goals replace the tape:** first strict pull-up, 5 pull-ups, 10-second L-sit, 30-second wall handstand, full pistol squat each leg, palms flat in a fold, 90° straddle, a 5K at a comfortable pace, hip thrust held at your Build 3 weight for 2 × 6.
+- **Yoga becomes the second Sunday option** (alternating with heated Pilates) and the Wednesday session. Heated yoga follows the same heat rules as heated Pilates (Section 8).
+
+### The honest trade-offs
+
+- **Calisthenics and glute growth are compatible, but not simultaneous priorities.** Upper-body calisthenics (pull-ups, dips, handstands) barely touches lower-body recovery, so it integrates easily. Lower-body skills (pistols, jumps) compete with heavy glute work, so they stay small until Athletic season.
+- **Getting lighter helps every calisthenics skill.** Your body-composition work in Build seasons is also calisthenics preparation.
+- **Flexibility is slow and daily.** Ten minutes every day beats an hour on Sunday. That is why it lives in the cool-down.
+- **Maintenance is real, but not automatic.** Two heavy lower sessions a week is the floor. Below that, over months, the glutes shrink. The tape and the hip thrust log tell you if you have gone too low.
