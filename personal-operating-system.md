@@ -4,7 +4,7 @@
 
 **Anchor (decided Oct 7 after Day 1): wake 4:30 AM, lights out 9:15 PM.** The system was first drafted around 3:00, but Day 1 showed a real day that started at 7:00 with supply runs and a crew managed by phone. A 4-hour jump fails at bedtime, not at the alarm, so the anchor is 4:30 with an earn-earlier rule: 14 straight days of lights out by 9:15 and up at 4:30 (one Red day allowed) moves the anchor 30 minutes earlier for the next 14 days. The Google Calendar is built on 4:30. Where any time in this document says 3:00/7:45, read 4:30/9:15 and shift the morning blocks by 90 minutes.
 
-**Day 1 = Wednesday, October 7, 2026.** Week 1 is a long first week: five launch days (Wed Oct 7 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
+**Day 1 = Thursday, October 8, 2026.** Week 1 is a long first week: four launch days (Thu Oct 8 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
 
 **This is a lifestyle, not a program.** The 12-week block is how progress gets measured and how training gets adjusted. The operating system itself (sleep, food, the walk, the morning, the business blocks, the Sunday reset) does not end. Section 26 maps the long arc: build the glutes, abs, and a tight upper body first; then shift to maintenance so the freed-up time and recovery go to calisthenics, yoga, flexibility, and athleticism.
 
@@ -14,7 +14,7 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 
 ## Contents
 
-0. Launch week: Days 1–5 (Wed Oct 7 – Sun Oct 11)
+0. Launch week: Days 1–4 (Thu Oct 8 – Sun Oct 11)
 1. Life strategy and priority tiers
 2. Ideal Monday–Sunday schedule
 3. The 3:00 AM morning routine
@@ -45,67 +45,64 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 
 ---
 
-## 0. Launch Week: Days 1–5 (Wednesday, October 7 – Sunday, October 11)
+## 0. Launch Week: Days 1–4 (Thursday, October 8 – Sunday, October 11)
 
-The system starts mid-week, which is fine: the weekly schedule is anchored to days of the week, not to a count, so Day 1 simply follows the Wednesday template. These five days are for installing the routine, taking baselines, and ordering plates. They count toward Week 1 and Phase 1.
+The system starts mid-week, which is fine: the weekly schedule is anchored to days of the week, so Day 1 simply follows the Thursday template. These four days install the routine, take baselines, and get plates ordered. They count toward Week 1 and Phase 1. Anchor: wake 4:30, lights out 9:15.
 
-### Tonight (Tuesday, October 6) — the real Day 1 starts here
+### Tonight (Wednesday, October 7)
 
-- [ ] Alarm set for 3:00 AM, placed across the room. Phone charger moved outside the bedroom.
-- [ ] Tomorrow's training clothes, work outfit, and shoes laid out. Reformer cleared. Bike ready.
-- [ ] Water bottle filled, electrolyte packet next to it. Pre-workout bite (banana or rice cake) on the counter.
-- [ ] Breakfast components in the fridge: Greek yogurt, protein powder, eggs, fruit, oats. Lunch and afternoon protein snack packed.
-- [ ] Tape measure, scale, and phone (for photos) in the bathroom.
-- [ ] Study materials on the desk, even if the first session is just mapping the exam.
+- [ ] Alarm set for 4:30 AM, placed across the room. Phone charger moved outside the bedroom.
+- [ ] Tomorrow's training clothes, work outfit, and shoes laid out. Bar, bands, kettlebell, vest, and a box or bench for step-ups staged in the sunroom.
+- [ ] Water bottle filled, electrolyte packet beside it. Pre-workout bite (banana or rice cake) on the counter.
+- [ ] Breakfast components in the fridge. Lunch and an afternoon protein snack packed.
+- [ ] Scale, tape measure, and phone in the bathroom for baselines.
+- [ ] Study materials on the desk: tomorrow's session is mapping the exam, so a browser tab on the Minnesota DLI contractor licensing page is enough.
 - [ ] Reading book on the nightstand.
-- [ ] No caffeine after noon. Dinner finished by 6:10. Lights out **7:45 PM**. If you cannot make 7:45 tonight, use the sleep protection rule: lights out 8:15 means wake at 3:30 and a 45-minute session.
+- [ ] Dinner + two shakes to get protein near 150 g. Yin yoga 8:00–8:20. Self-care 8:40. Lights out **9:15**. If tonight slips to 9:45, tomorrow is a 5:00 Yellow day: 45-minute session, 45-minute study.
 
-### Day 1 — Wednesday, October 7
+### Day 1 — Thursday, October 8
 
 | Time | Action |
 |---|---|
-| 3:00 | Wake. Bed. Face. Water + electrolytes. |
-| 3:10 | **Baselines, before food or water beyond the first glass:** weigh in, waist at navel, hips at widest point. Progress photos: front, side, back, same spot you will use every two weeks. Write them in the weekly tracker as Week 1 baseline. |
-| 3:20 | Dress, small carb bite. |
-| 3:25–4:35 | **Wednesday session:** 40 min reformer/mat flow (footwork, feet-in-straps lower-ab series, plank series, side-lying leg work) + 20–25 min Rhythm Ride at a conversational-to-moderate effort. Easy entry on purpose; Thursday is the first heavy day. |
-| 4:35–5:05 | Cool down, log the session, breakfast (40 g protein), floss. |
-| 5:05–5:35 | Shower, skincare with SPF, hair, dressed intentionally. |
-| 5:35–6:35 | **Study, session 1: map the exam.** Find the current Minnesota DLI requirements, exam provider, content outline, reference list, passing score, question count, time limit, fees. Build the chapter checklist. Do not read content yet. |
-| 6:35–6:55 | Top 3 business outcomes for today. Crew plan. |
-| Workday | Wednesday theme: project management (A), vendors + subs (B), payroll prep (admin). Use Buffer 1 to **order plates and a bar pad** (Section 24, priority 1). |
-| 5:00–5:30 PM | Treadmill walk, easy. Arm Pilates optional. |
-| 5:30–6:10 | Dinner, kitchen reset. |
-| 6:10–6:30 | 10-min reset. Laundry load 1 (training clothes) started. Lay out Thursday. |
-| 6:30–7:00 | Reading. |
-| 7:00–7:30 | Skincare, floss PM, hair. Phone out of the bedroom. Fill the daily tracker row. |
-| 7:45 | Lights out. |
+| 4:30 | Wake. Bed. Face. Water + electrolytes. |
+| 4:35 | **Baselines, before food:** weight · waist at navel · hips at widest · photos front/side/back. Into the Week 1 tracker row. |
+| 4:45 | Dress, small carb bite. |
+| 4:55–6:05 | **Heavy Glute B, Stage 0:** banded RDL 3×12–15 with 3-s lowering · banded barbell glute bridge 3×15–20 · reverse lunges DBs + vest 3×10/leg · step-ups 3×10/leg · single-leg KB RDL 3×10/leg · band lateral walks 2×15 · Core B. RIR 3 on everything. **Film the RDL from the side.** |
+| 6:05–6:30 | 10-min yoga flow, breakfast 40 g protein, floss. |
+| 6:30–6:55 | Shower, skincare + SPF, hair, dressed. |
+| 6:55–7:45 | **Study session 1: map the exam.** Current DLI requirements, exam provider, content outline, reference list, passing score, question count, time limit, fees. Build the chapter checklist. No content yet. |
+| 7:45–8:00 | Top 3 business outcomes. Crew plan. |
+| Workday | Thursday theme: estimates second pass (A), follow-ups (B), invoicing (admin). Use Buffer 1 to **order plates, a bar pad, and two stall mats.** |
+| 5:15 PM | Treadmill walk, easy, no vest (heavy legs). |
+| 5:45 | Dinner, kitchen reset. |
+| 6:20 | 10-min reset + Thursday kitchen task. Lay out Friday. |
+| 6:40 | Reading. |
+| 7:10 | Flex block. Decide tomorrow's color at 7:00. |
+| 8:40 | Skincare, floss PM, hair. Phone out. Fill the daily tracker row. |
+| 9:15 | Lights out. |
 
-### Day 2 — Thursday, October 8: first heavy glute day (Stage 0)
+### Day 2 — Friday, October 9
 
-Heavy Glute B with the empty bar, bands, KB, and vest exactly as written in Section 6, Stage 0 column: banded RDL 3 × 12–15 with a 3-second lowering, banded barbell glute bridge, reverse lunges with DBs + vest, step-ups, single-leg KB RDL, band lateral walks, then Core B. **Film the RDL from the side.** RIR 3 everywhere; this session is about finding positions, not effort. Study: first content block (business/law). Work theme: estimates (A), follow-ups (B), invoicing (admin). Walk easy, no vest.
+Upper B + 8-min glute floor + 1.5 mi run/walk + Crush Your Core (Week 1 of the rotation). Study: first content block (business/law). Work: growth (A), next-week scheduling (B), **first weekly cash-flow review** (admin). Walk with optional 10 lb vest. Restorative yoga 8:00 PM.
 
-### Day 3 — Friday, October 9
+### Day 3 — Saturday, October 10
 
-Upper B (35 min, Stage 0: barbell row with the 45 lb bar, KB row, push-up variation, band face pulls, two sets of triceps, two sets of biceps) + 1.5 mi run/walk on the Tread (3 min run / 1 min walk) + Crush Your Core 10 min. Study: practice questions on Thursday's content. Work: growth (A), next-week scheduling (B), **first weekly cash-flow review** (admin, Section 15). Walk with optional 10 lb vest.
+Glute C pump (non-negotiable) + one HYROX Training Program class at **3 rounds**. Then study 90 min (first timed mini-section), business catch-up 60 min, Future block (FBA 45 / trading 45), deeper clean + laundry load 2, walk. Book a Sunday morning heated Pilates class if you have not.
 
-### Day 4 — Saturday, October 10
+### Day 4 — Sunday, October 11: first Sunday reset
 
-Glute C pump (25 min) + HIIT at **3 rounds** with 1 mi of run intervals. Then the Saturday structure: 90 min study (first timed mini-section from whatever practice questions you have, plus error review), 60 min business catch-up, Future block (FBA 45 / trading education 45), deeper clean + laundry load 2. Walk later, vest optional. Book a Sunday morning heated Pilates class if you have not.
-
-### Day 5 — Sunday, October 11: first Sunday reset
-
-Follow Section 16 in full: wake by 4:00, reading, business review (three priorities for the week of Oct 12), money review (first property-fund transfer), heated Pilates (rate it 1–10), meal prep, clean + linens, easy walk, self-care hour, Monday prep, and the first weekly reflection. **No ice bath yet** (that begins November 8). Fill the Week 1 row of the weekly tracker with the Wednesday baselines and the five days of data.
+Wake by 5:30. Book B 5:30. Business review 6:00, three priorities for the week of Oct 12. Money review 6:30 with the first property-fund transfer. Heated Pilates (rate it 1–10). Meal prep. Clean + linens. Walk 1:00. Self-care hour. Monday prep. Power yoga 3:30. Reflection 6:15: fill the Week 1 row with Thursday's baselines and four days of data. **No ice bath yet** (November 8).
 
 ### Monday, October 12 onward
 
-The full Monday–Sunday template runs with no further changes. Heavy Glute A on Monday is your first hip thrust session: Stage 0 with the empty bar and bands until the plates arrive, then Stage 1 the same week they do.
+The full Monday–Sunday template runs. Heavy Glute A on Monday is your first hip thrust session: Stage 0 with the bar and bands until the plates arrive, Stage 1 the same week they do.
 
 ### Launch-week rules
 
-- Lights out 7:45 every one of these five nights. The habit you are installing this week is the bedtime, not the workout.
-- Protein 150 g every day from Day 1. Set a reminder for the afternoon shake.
-- Everything in these five days is RIR 3. You cannot be too conservative in a launch week; you can easily be too aggressive.
-- The first Green/Yellow/Red decision happens at 6:00 PM on Day 1.
+- Lights out 9:15 every one of these four nights. The habit you are installing is the bedtime, not the workout.
+- Protein 150 g every day from Day 1. Dinner plus two shakes counts.
+- Everything in these four days is RIR 3. You cannot be too conservative in a launch week.
+- The first Green/Yellow/Red call happens at 7:00 PM on Day 1.
 
 ---
 
@@ -587,7 +584,7 @@ Your home reformer session should spend 10–15 of its 40 minutes on footwork, f
 | Sat | Glute C pump, 25 min, all isolation | Before conditioning |
 | Sun | Side-lying leg and bridging series | Inside heated Pilates |
 
-**Rotating: three Peloton slots a week on a four-week cycle (Week 1 = Oct 7–18, then Oct 19, Oct 26, Nov 2, repeat).**
+**Rotating: three Peloton slots a week on a four-week cycle (Week 1 = Oct 8–18, then Oct 19, Oct 26, Nov 2, repeat).**
 
 | Week | Wed ride slot (20–25 min, after reformer) | Sat conditioning (25 min, after Glute C) | Fri 10-min slot | Sun 30 min |
 |---|---|---|---|---|
@@ -1031,7 +1028,7 @@ Copy this row into a notes app or spreadsheet, one line a day. Fill it at 6:15 P
 
 | Date | Color (G/Y/R) | Wake time | Lights out | Total sleep (h) | Water (oz) | Protein (g) / kcal adequate? (Y/N) | Workout done (session) | Walk (min) / steps | Core (Y/N/n-a) | Reading (min) | Bed made | Floss AM | Floss PM | Self-care AM/PM | 10-min reset | Business top 3 done (0–3) | Study (min) | Energy/soreness (1–5) | Note (one line) |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Wed 10/7 | | | | | | | | | | | | | | | | | | | |
+| Thu 10/8 | | | | | | | | | | | | | | | | | | | |
 
 **Patterns, not days.** Once a week, scan the column, not the row. Questions: How many Green days? What was lights-out on the Red days? Which day of the week do you miss reading? Does protein drop on field-heavy days? That is what the tracker is for.
 
@@ -1043,7 +1040,7 @@ Fill every Sunday 6:15 PM.
 
 | Week | Dates | Avg body weight (lb) | Waist (in, at navel) | Hips/glutes (in, widest) | Photos (every 2 wks: F/S/B) | Hip thrust best set (lb × reps @ RIR) | RDL best set | Squat variant best set | Glute hard sets | Running miles | Pilates (heated / home) | Rhythm Rides | HIIT | Walks (of 7) | Avg sleep (h) | Nights ≥7 h (of 7) | Days protein ≥150 g (of 7) | Days kcal ≥1,800 (of 7) | Green / Yellow / Red | Business: top wins (2–3 words) | Study hours | Practice-Q % | Money saved to property fund | Ice bath (Y/N) | One change for next week |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 10/7–10/18 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
+| 1 | 10/8–10/18 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
 | 2 | 10/19–10/25 | | | | | | | | | | | | | | | | | | | | | | | — | |
 | 3 | 10/26–11/1 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
 | 4 | 11/2–11/8 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1065,7 +1062,7 @@ Fill every Sunday 6:15 PM.
 
 | Phase | Weeks | Dates | Training | Nutrition and sleep | Everything else |
 |---|---|---|---|---|---|
-| **1 — Consistency, technique, baseline** | 1–4 | Oct 7 – Nov 8 | Stage 0 for weeks 1–2 (empty bar, bands, vest), **Stage 1 the week plates arrive**. RIR 3 on main lifts, 3 sets. Running builds 4 → 6 mi. One Rhythm Ride. HIIT 3 rounds. Film hip thrust and RDL in weeks 1 and 4 | Hit 150 g protein and the 2,100 floor **every day**; this is the hard part on the medication. Lights out 7:45 six nights of seven. Build fiber slowly | Study ~7 h/week, exam mapped by week 2. Daily reset and reading habit locked in. First Green/Yellow/Red counts. Ice bath begins Sunday of week 4 |
+| **1 — Consistency, technique, baseline** | 1–4 | Oct 8 – Nov 8 | Stage 0 for weeks 1–2 (empty bar, bands, vest), **Stage 1 the week plates arrive**. RIR 3 on main lifts, 3 sets. Running builds 4 → 6 mi. One Rhythm Ride. HIIT 3 rounds. Film hip thrust and RDL in weeks 1 and 4 | Hit 150 g protein and the 2,100 floor **every day**; this is the hard part on the medication. Lights out 7:45 six nights of seven. Build fiber slowly | Study ~7 h/week, exam mapped by week 2. Daily reset and reading habit locked in. First Green/Yellow/Red counts. Ice bath begins Sunday of week 4 |
 | **2 — Overload and conditioning** | 5–8 | Nov 9 – Dec 6 | 4th set on hip thrust, RDL, main press, main row. Rep ranges shift to 8–10. RIR 2. Saturday HIIT to 4 rounds. Stage 2 if the rack arrives. **Week 8 is a conditional light week**: if 2+ fatigue flags in week 7 (sleep down 4+ nights, RHR +5, lifts down, joints, flat mood), cut to 2 sets, keep loads, skip HIIT | Reassess calories at week 4 and 8 with the Section 9 table. Most likely adjustment on tirzepatide is *up*, not down | Study: all content covered by week 8, first full timed practice exam. Reading: 4 books done. Business: themed days running; Friday cash review habitual |
 | **3 — Hypertrophy progression and evaluation** | 9–12 | Dec 7 – Jan 3 | Hip thrust and RDL 4 × 6–8 at RIR 1–2 plus a back-off set. Unilateral work loaded as heavy as equipment allows. Week 12: work up to a 6-rep hip thrust and 6-rep RDL at RIR 1 and record them. Then a full deload week (Jan 4–10: 50% sets, 80% loads, no HIIT) before block 2 | Hold whatever intake the data says. Holidays: protein and sleep first, everything else flexible for the day, back to normal the next morning | Study: weak-area drill, second practice exam, **exam scheduled** for week 11–12 if ready. Reading: 6 books. Business: year-end numbers; set Q1 priorities during the Sunday review of week 12 |
 
