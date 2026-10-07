@@ -574,6 +574,32 @@ Your home reformer session should spend 10–15 of its 40 minutes on footwork, f
 
 "Easy" means you can speak in full sentences. On the Tread, that is probably 12:00–14:00 min/mile pace to start; let the breathing decide, not the number. Shoes with cushioning; if shins or knees complain, swap one easy run for a Rhythm Ride for two weeks.
 
+### Peloton rotation and the non-negotiable glute isolation skeleton
+
+**Fixed every week (six isolated glute touches). These never move for a Peloton class; a Red day drops the class, not the glute work.**
+
+| Day | Isolation block | Where |
+|---|---|---|
+| Mon | A4–A6: single-leg hip thrust, seated band abduction, standing kickback | End of Heavy Glute A |
+| Tue | **Glute floor, 8 min:** band lateral walk 20 each way · fire hydrant 20/side · bridge 20 (3-s hold on the last) · kickback 20/leg | After Upper A, before the run |
+| Thu | B5–B6: single-leg RDL or slider curl, band lateral walks | End of Heavy Glute B |
+| Fri | **Glute floor, 8 min** | After Upper B, before the run |
+| Sat | Glute C pump, 25 min, all isolation | Before conditioning |
+| Sun | Side-lying leg and bridging series | Inside heated Pilates |
+
+**Rotating: three Peloton slots a week on a four-week cycle (Week 1 = Oct 7–18, then Oct 19, Oct 26, Nov 2, repeat).**
+
+| Week | Wed ride slot (20–25 min, after reformer) | Sat conditioning (25 min, after Glute C) | Fri 10-min slot | Sun 30 min |
+|---|---|---|---|---|
+| 1 | Rhythm Ride | HYROX Training Program class | Crush Your Core | Slow Flow |
+| 2 | Low Impact or Power Zone Endurance | HIIT & Hills / Tabata / Climb ride | Arms with Tunde 10 min (replaces D5–D6) | Yoga for Athletes |
+| 3 | Rhythm Ride | Tread intervals 6 × 0.33 mi + 5 min jump rope | Crush Your Core | Slow Flow |
+| 4 | Rhythm Ride | Rhythm Ride 30, no HIIT (built-in lighter week) | Arms with Tunde 10 min | Restorative / stretch |
+
+Tue and Fri runs may be any 20-min Peloton Tread Fun Run or Walk + Run class.
+
+**Rules:** one hard Peloton session a week maximum (HIIT, Tabata, Climb, HYROX count; Rhythm and Low Impact do not) · Rhythm Rides may appear up to three times a week (Wed, in place of a sore-leg run, Sunday) · no Bootcamp or squat/lunge classes during Build season · Arms with Tunde replaces arm isolation, never stacks, never the 20/30-min versions · Crush Your Core replaces a core block, never stacks on Core A/B.
+
 ### Saturday HIIT / HYROX session (25 min)
 
 Rotate these three. Scale by rounds, not by pace.
