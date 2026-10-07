@@ -799,10 +799,13 @@ Your arms will look leaner as body fat comes down. The two upper-body sessions k
 
 ### Reading tracker
 
-| # | Title | Type (A/B) | Pages | Started | Finished / Abandoned | Notes |
-|---|---|---|---|---|---|---|
-| 1 | | | | | | |
-| 2 | | | | | | |
+| # | Title | Type (A/B) | Pages | Started | Target finish | Finished / Abandoned | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | Crucial Conversations | A (evening) | ~280 | Oct 8 | **Oct 19** (24 pages/night) | | One usable tool per chapter → Monday card |
+| 2 | (choose Sunday Oct 11) | A | | Oct 20 | Oct 31 | | |
+| 3 | | B (Sunday) | | | | | |
+
+**October goal: 2 books, both finished by Oct 31.** Pace = pages remaining ÷ nights remaining, recomputed every Sunday.
 
 Keep the full list of books you own at the bottom of the tracker. Cross them off. Add nothing new until the list is under 10.
 
