@@ -1207,6 +1207,37 @@ Add a **30-minute Sunday yoga session** in the free 3:00–5:30 PM block (a Pelo
 - **New measurable goals replace the tape:** first strict pull-up, 5 pull-ups, 10-second L-sit, 30-second wall handstand, full pistol squat each leg, palms flat in a fold, 90° straddle, a 5K at a comfortable pace, hip thrust held at your Build 3 weight for 2 × 6.
 - **Yoga becomes the second Sunday option** (alternating with heated Pilates) and the Wednesday session. Heated yoga follows the same heat rules as heated Pilates (Section 8).
 
+### Yoga, integrated now (not waiting for Athletic season)
+
+| When | What | Why there |
+|---|---|---|
+| Every training day, 6:05–6:15 | The cool-down is a 10-min yoga flow: 3 sun salutations A · low lunge · lizard · half splits · pigeon · down dog · pancake lean · supine twist · forward fold | Flexibility is daily and small |
+| Mon / Wed / Fri, 8:00–8:20 PM | 20 min Yin, Slow Flow, or Restorative inside the flex block | Slow yoga at night lowers heart rate and makes the 9:15 lights-out easier |
+| Sunday, 3:30–4:15 PM | 45 min Power Yoga / Vinyasa / Yoga for Athletes, rotating; 5–10 min of crow, wall handstand, wheel after | The only non-lifting day, so it can carry arm balances and inversions |
+| Athletic season | Wednesday becomes a 45-min yoga day | When glute volume drops to maintenance |
+
+Rules: hard yoga only on Sunday · night yoga is always slow · yoga never replaces a glute session · no squat-heavy class the day before a heavy lower day.
+
+### The badass ladder
+
+Skills in roughly the order your body will let you earn them. Each has a first step you can start this week.
+
+| Skill | First step now | Milestone | Realistic by |
+|---|---|---|---|
+| Hip thrust 2× bodyweight | Empty bar, perfect reps | 225 lb for reps, then 300+ | 225 by March; 300+ in a year |
+| Strict pull-up | Dead hangs + scapular pulls when the rack arrives | 1 strict, then 5 | First by spring; 5 by next fall |
+| 20 strict push-ups | Close-grip push-ups on Upper A | 20 unbroken, then pseudo-planche leans | January |
+| Pistol squat | Box pistols from Build 2 | Full pistol each leg | Summer |
+| L-sit | Hollow holds now | 10-s L-sit | Summer |
+| Crow pose | Sunday power yoga | 10-s hold | Winter |
+| Handstand | Wall holds from Build 2 | 30-s wall handstand, then freestanding attempts | Summer; a year |
+| Full wheel | The bridges you already do | Full wheel, straight arms | Spring |
+| Front splits and pancake | Daily flow | Full pancake; splits within 4 in | A year |
+| Run | 1.5-mi run/walks now | 5K easy, then 5K under 30 min | 5K by December; sub-30 by spring |
+| HYROX | One program class a week | 8 rounds at race effort | Summer |
+
+Body weight going down helps every one of these. The composition work now is calisthenics preparation.
+
 ### The honest trade-offs
 
 - **Calisthenics and glute growth are compatible, but not simultaneous priorities.** Upper-body calisthenics (pull-ups, dips, handstands) barely touches lower-body recovery, so it integrates easily. Lower-body skills (pistols, jumps) compete with heavy glute work, so they stay small until Athletic season.
