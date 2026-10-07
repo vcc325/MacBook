@@ -790,6 +790,24 @@ Your arms will look leaner as body fat comes down. The two upper-body sessions k
 | **Target (Green/Yellow)** | 30 minutes (6:30–7:00 PM) | 3.5 h + Sunday extra 30 min = 4 h | **2 books** (at ~25 pages/day you cover 700+ pages a month) |
 | **Stretch** | + 15 min at lunch | | 3 books |
 
+### The comprehension protocol (how 30 minutes becomes understanding)
+
+Understanding comes from asking before you read, writing after you read, and using what you read within a week. It adds no time; it reshapes the 30 minutes.
+
+| Minutes | Step | Why |
+|---|---|---|
+| 0–2 | Read the chapter title. Write one question you expect it to answer. | The brain reads to find an answer instead of drifting |
+| 2–24 | Read with a pen. Underline at most one sentence per page. Circle unknown words and keep going. "?" in the margin where you disagree or get lost. | One underline per page forces judgment; circling without stopping keeps momentum |
+| 24–30 | Close the book. Three lines in a notebook: what it said in your words · one example from your crew, a client, or your week · one word to keep. | Closing the book and restating it is what converts reading into understanding. Can't write the line? Re-read one page, not the chapter |
+
+**Vocabulary.** Circled words become index cards: the word, the sentence it came from, your own one-line definition. Five a week maximum. They ride in the lunch flashcard slot with the license cards. A word is learned when you have **used** it out loud or in a text within seven days, not when you can define it.
+
+**Mindset.** Mindset changes from applying one idea, not reading twenty. Each Sunday reflection: re-read the week's three-line notes and write *"the idea I'm applying this week is ___"* on Monday's card beside the business top 3. Each finished self-help book gets a one-page summary in your own words; no page, no book. Crucial Conversations is a gym: use each chapter's move in a real conversation before reading the next chapter.
+
+**Fiction stays fun.** Circle unknown words, no notes. At each chapter end, 30 seconds: what happens next?
+
+**Pace stays 24 pages** (about 22 minutes reading, 6 writing). A dense chapter that only allows 20 is correct. Depth over count; the Sunday recalculation absorbs it.
+
 ### Rotation rule: two books at a time, never three
 
 - **Book A (evening):** whatever you most want to read: fiction, memoir, anything that is not work. The evening slot is for winding down, so it must be a book you look forward to.
