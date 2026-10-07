@@ -809,22 +809,31 @@ Your arms will look leaner as body fat comes down. The two upper-body sessions k
 
 ### Your shelf, sequenced (from the two shelf photos, Oct 7)
 
-**Evening slot, two a month, self-help first then fiction:**
+**Evening slot, two a month (all physical books from your shelf):**
 
-| Month | Self-help | Fiction |
+| Month | First | Second |
 |---|---|---|
 | Oct | Crucial Conversations (done Oct 19) | They Both Die at the End (Oct 20–31) |
 | Nov | Make Your Bed + To Sell Is Human | If You Tell |
 | Dec | The Power of Now | Two by Two |
 | Jan | Stoicism 101 + The Manual | Sense and Sensibility |
 | Feb | Becoming Supernatural | the other Nicholas Sparks |
-| Mar | The 48 Laws of Power | first sci-fi (not yet on the photographed shelf) |
+| Mar | The 48 Laws of Power | sci-fi #1 (shelf not yet photographed) |
+| Apr | Zen and the Art of Happiness + The Five Languages of Apology | sci-fi #2 |
+| May | A New Earth | Codependent No More |
+| Jun | The Open-Focus Life | Women and Leadership |
 
-**Audiobook on walks, in order:** Zen and the Art of Happiness · The Open-Focus Life · Women and Leadership · A New Earth · The Five Languages of Apology. Codependent No More and Recovery from Gaslighting & Narcissistic Abuse: read with a notebook when you choose to, not on the treadmill.
+Fiction on the photographed shelf runs out in February; the sci-fi shelf or a library app fills March onward.
+
+**Your choice, any month, with a notebook:** Recovery from Gaslighting & Narcissistic Abuse (Don Barlow). It can take the second slot in any month you pick.
+
+**Fillers for a short month:** The Secret, The Law of Attraction (a week each). **Dip-in only:** Desire, The Holistic Guide to Wellness. The Concise Art of Seduction: your call.
 
 **Sunday Book B:** Modern Real Estate Practice, Minnesota edition, one chapter a Sunday. Then Economics 101.
 
-**Study desk, not the reading list:** Minnesota Residential Code (license reference). A Word in the Hand (sign language) is a skill book, not a reading-list book.
+**Walks:** audiobooks are optional (library app, sci-fi or anything), not a required slot.
+
+**Study desk, not the reading list:** Minnesota Residential Code (license reference). A Word in the Hand (sign language) is a skill book.
 
 **Flag:** Fast Like a Girl is on the shelf. Read it if you want; do not follow a fasting protocol while on tirzepatide with a 150 g protein target and three heavy lifting days. The book argues with the plan, and the plan wins until the glutes are built.
 
