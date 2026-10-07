@@ -39,6 +39,7 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 24. Equipment purchase priority
 25. What to discuss with your prescribing clinician
 26. The lifestyle arc: build, then athletic (calisthenics, yoga, flexibility)
+27. Training space setup (the sunroom)
 
 ---
 
@@ -1153,3 +1154,32 @@ Add a **30-minute Sunday yoga session** in the free 3:00–5:30 PM block (a Pelo
 - **Getting lighter helps every calisthenics skill.** Your body-composition work in Build seasons is also calisthenics preparation.
 - **Flexibility is slow and daily.** Ten minutes every day beats an hour on Sunday. That is why it lives in the cool-down.
 - **Maintenance is real, but not automatic.** Two heavy lower sessions a week is the floor. Below that, over months, the glutes shrink. The tape and the hip thrust log tell you if you have gone too low.
+
+---
+
+## 27. Training Space Setup (the Sunroom)
+
+The training room is a converted porch/sunroom: painted plank floor over joists, six large windows, roughly 8-foot ceilings, Edison-bulb lighting. The Peloton Bike and Tread, the 45 lb bar on a rubber mat along the back wall, a rolled mat, small dumbbells, the kettlebell, and bands are already in place.
+
+### Two caveats to handle before winter
+
+1. **Cold.** A Minnesota sunroom at 3:25 AM from November through March will be very cold, and the windows appear single-pane. Cold muscle plus heavy hip thrusts and RDLs is an injury setup, and the Peloton screens should not be started below freezing. Protocol: space heater on a timer from 2:45 AM; warm-up extended to 10 minutes; below ~50 °F in the room, train in layers and do the ride or run *before* lifting. If the room cannot hold ~55 °F in January, the barbell work moves indoors for the winter and the room keeps the Bike, Tread, and Pilates.
+2. **Floor.** Plank flooring with gaps is fine for standing loads, not for dropped plates or a rack that rocks. Buy **two 4 × 6 ft, ¾-inch rubber stall mats** (farm supply store, ~$50 each) before plates arrive: one under the hip-thrust/RDL station, one under the rack. Set loads down; never drop them. If the joists are visible from below, confirm the rack area spans at least two of them.
+
+### Layout
+
+| Zone | Where | Use |
+|---|---|---|
+| Lifting | Back right wall where the bar is now, stall mat 1 | Hip thrusts (bench against the wall under the windows), RDLs, rows, floor press, Glute C |
+| Rack | Back right corner (move the cooler and bin out), stall mat 2 | Squats, barbell split squats, pull-up bar; a 7-ft half rack fits under an 8-ft ceiling and gives a usable hang at 5'4" |
+| Cardio | As is | Bike and Tread; keep the Tread deck clear so the 3:25 start has nothing to move |
+| Mat | Center floor between the Tread and the lifting zone | Core blocks, cool-down flow, band work |
+| Storage | One shelf or wall rack on the right wall | Vertical plate tree, band hooks, KB and dumbbells on a low shelf; nothing on the floor to step over in the dark |
+
+### Light
+
+The Edison bulbs are dim. Add one bright **5,000 K daylight LED lamp or shop light** and turn it on the moment you enter at 3:00 AM. Bright light in the first 30 minutes after waking is the strongest signal that moves your body clock toward a 3:00 wake; it also makes the 7:45 lights-out easier to fall asleep from.
+
+### Small moves
+
+Cooler and bin out of the corner; scratching post relocated so the bike zone is clear; a hook by the door for the vest and jump rope; water and electrolytes on the windowsill at the lifting end.
