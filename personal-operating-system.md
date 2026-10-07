@@ -146,7 +146,35 @@ One checkmark per tier is a successful day:
 
 **Sleep math:** lights out **7:45 PM** → wake **3:00 AM** = 7 h 15 min in bed, about 7 h asleep. Bedroom at 7:30 PM. Wind-down starts 7:00 PM. Nothing in the evening is allowed to push 7:45.
 
-**Assumptions:** your workday runs roughly 7:00 AM–4:30 PM. If you commute, the 6:35–6:55 planning block becomes drive time and planning moves into the first 15 minutes at work.
+**Calendar version (what is actually on your Google Calendar).** Your Construction Work calendar already has "Check HQ / Load Truck" at 6:20 and "Leave for Job Site" at 7:10 with a 30–35 min commute, on site by 7:45. The calendar is built around that reality, so the morning ends at 6:20 and the evening starts when you are home at about 5:05:
+
+| Time | Weekday block on the calendar |
+|---|---|
+| 3:00–3:25 | Wake routine |
+| 3:25–4:35 | Training |
+| 4:35–5:00 | Cool-down flow + breakfast + floss |
+| 5:00–5:25 | Shower, skincare, hair, dressed |
+| 5:25–6:15 | License study (50 min; the other 10 min of flashcards is at lunch) |
+| 6:20–6:50 | Check HQ / load truck (existing) |
+| 6:50–7:10 | Day plan: top 3 + crew plan |
+| 7:10–7:45 | Commute (existing) |
+| 7:45–8:15 | Ops start |
+| 8:15–10:00 | Block A |
+| 10:00–10:30 | Buffer 1 |
+| 10:30–12:00 | Field / production |
+| 12:00–12:45 | Lunch + 10 min flashcards + 10 min Italian |
+| 12:45–2:30 | Block B |
+| 2:30–3:00 | Buffer 2 + protein snack + late-day decision |
+| 3:00–4:00 | Admin (Fri: cash-flow review) |
+| 4:00–4:30 | Shutdown, then drive home |
+| 5:10–5:40 | Treadmill walk |
+| 5:40–6:15 | Dinner + kitchen reset |
+| 6:15–6:35 | 10-min reset + lay out tomorrow |
+| 6:35–7:05 | Reading |
+| 7:05–7:30 | Evening self-care, floss, phone out |
+| 7:30–7:45 | In bed, lights out 7:45 |
+
+The table below is the original design; where the two differ, the calendar version wins because it matches your commute.
 
 ### Weekday template (Monday–Friday)
 
