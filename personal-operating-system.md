@@ -292,6 +292,53 @@ Two Red mornings in a row means the evening is the problem, not the morning. Aud
 
 **Never trade sleep for a workout.** A missed session costs you nothing measurable. A 6-hour night measurably lowers strength, raises hunger, and increases muscle loss in a deficit.
 
+### Late-work evening protocol (work ends at 6:00 PM)
+
+Construction days end late sometimes. The evening is designed so that a 6:00 finish can **still** reach a 7:45 lights-out if dinner is pre-made and you are home by about 6:20. What gets cut is the walk and part of the reading, not sleep.
+
+**Declare it early.** If you know by the 2:30 PM buffer that work will run to 6:00, declare a late day: take the walk at lunch or as a 15-minute site walk, text yourself "late day," and tomorrow defaults to Yellow until proven Green at 6:00 PM.
+
+| Time | Compressed evening | Normal evening it replaces |
+|---|---|---|
+| 6:00 | Work ends. Leave; no "one more thing." | 4:30 shutdown |
+| 6:20 | Home. Dinner is reheated, not cooked (Sunday meal prep). Protein shake if appetite is gone. | 5:30 dinner |
+| 6:40 | 5-minute reset: dishes in, counters clear, tomorrow's clothes, gym gear, and study materials out. Skip the weekly cleaning task. | 10-min reset + weekly task |
+| 6:50 | Self-care: rinse, skincare, floss PM, brush, hair. Phone to its charger outside the bedroom. | 7:00–7:30 self-care |
+| 7:10 | In bed with the book, lamp only. 10–20 pages. | 6:30–7:00 reading |
+| 7:30 | Book down. | |
+| **7:45–8:00** | **Lights out.** | 7:45 |
+| **3:00–3:15** | **Wake.** 7 h 15 min preserved. | 3:00 |
+
+If you are home later than 6:30, do not force it: lights out 8:15, wake 3:30, Yellow morning (45-minute session, 45-minute study). The compressed evening buys you about 25 minutes; it cannot buy you an hour.
+
+**What the late protocol costs:** the evening walk (moved to lunch or dropped that day), 10–20 minutes of reading, and the weekly cleaning task. Nothing in Tier 1 moves.
+
+### Frequency rule: when to change the wake time instead
+
+Count late days per week in the tracker. Consistency of wake time beats the specific number; waking at 3:00 four days and 4:00 three days is worse for sleep quality than 3:30 every day.
+
+| Late days (work past 5:00) per week | What to do |
+|---|---|
+| **0–1** | Use the late-work protocol above as an exception. Keep 3:00. |
+| **2–3** | **Move the whole week to a 3:30 standard: lights out 8:15, wake 3:30, every day including weekends.** Use the 3:30 morning template below. Do not run a 3:00/3:30 split week. |
+| **4+** | 4:00 standard (lights out 8:45) **and** treat the late finishes as a business problem to solve in the Friday growth block: delegation, scheduling, a hard stop the crew knows about, or an admin hire. A workday that ends at 6:00 four days a week is eating the business, not just the morning. |
+
+### The 3:30 morning template (for 2–3 late days a week)
+
+| Time | Block | Change from the 3:00 template |
+|---|---|---|
+| 3:30–3:50 | Wake, bed, face, water, dress, bite | 5 minutes shorter |
+| 3:50–4:50 | **Training, 60 min** | 10 minutes shorter: core block drops to 6 minutes, last accessory cut |
+| 4:50–5:00 | Cool-down, log | |
+| 5:00–5:20 | Breakfast, floss | |
+| 5:20–5:45 | Shower, skincare, hair, dress | 5 minutes shorter |
+| 5:45–6:35 | **Study, 50 min** | 10 minutes shorter: flashcards move to lunch (10 min) |
+| 6:35–6:55 | Day plan + buffer | unchanged |
+
+Weekly study still reaches ~6.5 hours with the lunch flashcards. The program loses 10 minutes of accessories per session, which is close to irrelevant for glute growth. Sleep stays at 7 h 15 min. That trade is the correct one every time.
+
+**Review the frequency count at the Sunday reflection.** If a month has run at the 3:30 standard and late days drop back to 0–1 a week, return to 3:00. The wake time serves the sleep, not the other way around.
+
 ---
 
 ## 5. Fitness Schedule
