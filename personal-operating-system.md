@@ -802,10 +802,33 @@ Your arms will look leaner as body fat comes down. The two upper-body sessions k
 | # | Title | Type (A/B) | Pages | Started | Target finish | Finished / Abandoned | Notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Crucial Conversations | A (evening) | ~280 | Oct 8 | **Oct 19** (24 pages/night) | | One usable tool per chapter → Monday card |
-| 2 | (choose Sunday Oct 11) | A | | Oct 20 | Oct 31 | | |
-| 3 | | B (Sunday) | | | | | |
+| 2 | They Both Die at the End | A (fiction) | ~370 | Oct 20 | Oct 31 | | No notes, pure wind-down |
+| 3 | Modern Real Estate Practice (MN) | B (Sunday) | | Oct 11 | one chapter/Sunday | | Property goal |
 
 **October goal: 2 books, both finished by Oct 31.** Pace = pages remaining ÷ nights remaining, recomputed every Sunday.
+
+### Your shelf, sequenced (from the two shelf photos, Oct 7)
+
+**Evening slot, two a month, self-help first then fiction:**
+
+| Month | Self-help | Fiction |
+|---|---|---|
+| Oct | Crucial Conversations (done Oct 19) | They Both Die at the End (Oct 20–31) |
+| Nov | Make Your Bed + To Sell Is Human | If You Tell |
+| Dec | The Power of Now | Two by Two |
+| Jan | Stoicism 101 + The Manual | Sense and Sensibility |
+| Feb | Becoming Supernatural | the other Nicholas Sparks |
+| Mar | The 48 Laws of Power | first sci-fi (not yet on the photographed shelf) |
+
+**Audiobook on walks, in order:** Zen and the Art of Happiness · The Open-Focus Life · Women and Leadership · A New Earth · The Five Languages of Apology. Codependent No More and Recovery from Gaslighting & Narcissistic Abuse: read with a notebook when you choose to, not on the treadmill.
+
+**Sunday Book B:** Modern Real Estate Practice, Minnesota edition, one chapter a Sunday. Then Economics 101.
+
+**Study desk, not the reading list:** Minnesota Residential Code (license reference). A Word in the Hand (sign language) is a skill book, not a reading-list book.
+
+**Flag:** Fast Like a Girl is on the shelf. Read it if you want; do not follow a fasting protocol while on tirzepatide with a 150 g protein target and three heavy lifting days. The book argues with the plan, and the plan wins until the glutes are built.
+
+**Shelf rule:** nothing new comes in until the list is under 10 unread. Finish or officially abandon.
 
 Keep the full list of books you own at the bottom of the tracker. Cross them off. Add nothing new until the list is under 10.
 
