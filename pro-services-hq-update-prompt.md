@@ -4,7 +4,7 @@ Copy everything below the line into the assistant that manages Pro Services HQ a
 
 ---
 
-You are updating two things for Valerie (Pro Services Painters, Minnesota): (1) Pro Services HQ, the company hub, and (2) her Google Calendar. Treat everything below as the source of truth. Do not invent client decisions. Where a client has not answered (Chris's sheen, Mark's wall color), leave the field marked "awaiting client" and do not pick a default.
+You are updating two things for Valerie (Pro Services Painters, Minnesota): (1) Pro Services HQ, the company hub, and (2) her Google Calendar. Treat everything below as the source of truth. Do not invent client decisions. Where a client has not answered (Mark's wall color), leave the field marked "awaiting client" and do not pick a default.
 
 ## Calendars
 - Primary (valerie@proservicespainters.com): training sessions only.
@@ -15,7 +15,7 @@ You are updating two things for Valerie (Pro Services Painters, Minnesota): (1) 
 ## Active jobs (addresses, client, deadline)
 | Job | Address | Client | Status / deadline |
 |---|---|---|---|
-| 12501 Portland Ave siding (pool house) | 12501 Portland Ave, Burnsville, MN 55337 | Chris | Paint Sat Oct 10 + Sun Oct 11, turn in Mon Oct 12 by 10 AM, client inspection Wed Oct 14. Color SW 7019 Gauntlet Gray, A-100. Sheen: AWAITING CHRIS (flat vs semi-gloss). 3 gal + 1 if bare wood. |
+| 12501 Portland Ave siding (pool house) | 12501 Portland Ave, Burnsville, MN 55337 | Chris | Paint Sat Oct 10 + Sun Oct 11, turn in Mon Oct 12 by 10 AM, client inspection Wed Oct 14. Spec from Chris Baran (Osso Capital) on Oct 8: Sherwin-Williams SuperPaint Exterior Latex SATIN. Siding and doors in Gauntlet Gray SW 7019. Fascia, corner boards, and door casing in White. New horizontal cement board lap siding over house wrap. Before/after photos texted to Chris at 312-459-6330. Oct 14 is a HUD NSPIRE inspection. |
 | 216 Remax | 216 Water St, Excelsior, MN 55331 | Mark Abdel | Prep Fri Oct 9. Trim/wainscoting/baseboards delivered Oct 9–12, Duke installs Mon Oct 12. Tricorn Black ProClassic semi-gloss on trim, doors white. Wall color + sheen: AWAITING MARK. Transition piece needed. Done target Wed Oct 14, buffer Thu Oct 15. |
 | Minnetonka Heights A314 | 5809 County Road 101, Minnetonka, MN 55345 | Mike Miller / Heartland | Fri Oct 9 prep + ceilings coat 1. Mon Oct 12 Melissa cuts walls (Dove) and base; Chino popcorn patches, sanding, bathroom caulk, kitchen build. Tue Oct 13 Valerie rolls walls 8–10, Melissa base/casings/entry door. Wed Oct 14 punch. Paint must be finished before cabinets + countertops Oct 15–16. Tile backsplash Oct 16–19. |
 | Briarhill 03203 | (Heartland) | Mike Miller / Heartland | Demo + header build-out with Mike Mon Oct 12 (product delivery lands). Electrical Oct 13–15 (bedroom light, under-cab light). Cabinet delivery Oct 15. Paint Oct 16–21. Final Oct 29/30. |
@@ -30,7 +30,7 @@ Remove any reference to "313" (does not exist; only A314) and to 1301 Mississipp
 - Valerie: floor covering, priming, rolling ceilings/walls, Tricorn Black trim at 216, Briarhill demo/electrical with Mike, all client communication.
 
 ## Open messages / decisions (log these as tasks)
-1. Chris — email sent asking flat vs semi-gloss for Gauntlet Gray. Waiting on reply before the Fri 3:00 PM paint run.
+1. Chris — ANSWERED Oct 8: SuperPaint Exterior Satin, Gauntlet Gray siding + doors, White fascia/corner boards/door casing. Also still open with Chris: the Sep 17 request for a storage-closet drywall repair + vinyl tile proposal before the Oct 14 NSPIRE inspection.
 2. Mark Abdel — text: wall color + sheen for 216; confirm Tricorn Black semi-gloss trim and white doors.
 3. Mike Miller — text: Oak Pointe 206 final will not be Oct 9; ask ETA on toilet + laminate.
 4. Jose — text: bathroom numbers for the two bathroom estimates; give him a date.
