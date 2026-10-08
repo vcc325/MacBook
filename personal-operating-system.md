@@ -4,7 +4,7 @@
 
 **Anchor (decided Oct 7 after Day 1): wake 4:30 AM, lights out 9:15 PM.** The system was first drafted around 3:00, but Day 1 showed a real day that started at 7:00 with supply runs and a crew managed by phone. A 4-hour jump fails at bedtime, not at the alarm, so the anchor is 4:30 with an earn-earlier rule: 14 straight days of lights out by 9:15 and up at 4:30 (one Red day allowed) moves the anchor 30 minutes earlier for the next 14 days. The Google Calendar is built on 4:30. Where any time in this document says 3:00/7:45, read 4:30/9:15 and shift the morning blocks by 90 minutes.
 
-**Day 1 = Thursday, October 8, 2026.** Week 1 is a long first week: four launch days (Thu Oct 8 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
+**Day 1 = Friday, October 9, 2026** (Thursday Oct 8 was a sick day, a Red day before the system even started, which is fine). Week 1 is a long first week: three launch days (Fri Oct 9 – Sun Oct 11) plus the first full Monday–Sunday (Oct 12–18). Weeks 2–12 run Monday–Sunday. Week 12 ends Sunday, January 3, 2027. March checkpoint = Sunday, March 7, 2027 (end of week 21). See **Section 0: Launch Week** before anything else.
 
 **This is a lifestyle, not a program.** The 12-week block is how progress gets measured and how training gets adjusted. The operating system itself (sleep, food, the walk, the morning, the business blocks, the Sunday reset) does not end. Section 26 maps the long arc: build the glutes, abs, and a tight upper body first; then shift to maintenance so the freed-up time and recovery go to calisthenics, yoga, flexibility, and athleticism.
 
@@ -14,7 +14,7 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 
 ## Contents
 
-0. Launch week: Days 1–4 (Thu Oct 8 – Sun Oct 11)
+0. Launch week: Days 1–3 (Fri Oct 9 – Sun Oct 11)
 1. Life strategy and priority tiers
 2. Ideal Monday–Sunday schedule
 3. The 3:00 AM morning routine
@@ -45,64 +45,53 @@ This replaces the earlier `12-week-glute-recomposition-plan.md`. That file had a
 
 ---
 
-## 0. Launch Week: Days 1–4 (Thursday, October 8 – Sunday, October 11)
+## 0. Launch Week: Days 1–3 (Friday, October 9 – Sunday, October 11)
 
-The system starts mid-week, which is fine: the weekly schedule is anchored to days of the week, so Day 1 simply follows the Thursday template. These four days install the routine, take baselines, and get plates ordered. They count toward Week 1 and Phase 1. Anchor: wake 4:30, lights out 9:15.
+Thursday Oct 8 was a sick morning: fluids, rest, business essentials only. Day 1 moved to Friday. These three days install the routine, take baselines, and get the equipment ordered. Anchor: wake 4:30, lights out 9:15.
 
-### Tonight (Wednesday, October 7)
+### Tonight (Thursday, October 8)
 
-- [ ] Alarm set for 4:30 AM, placed across the room. Phone charger moved outside the bedroom.
-- [ ] Tomorrow's training clothes, work outfit, and shoes laid out. Bar, bands, kettlebell, vest, and a box or bench for step-ups staged in the sunroom.
-- [ ] Water bottle filled, electrolyte packet beside it. Pre-workout bite (banana or rice cake) on the counter.
-- [ ] Breakfast components in the fridge. Lunch and an afternoon protein snack packed.
-- [ ] Scale, tape measure, and phone in the bathroom for baselines.
-- [ ] Study materials on the desk: tomorrow's session is mapping the exam, so a browser tab on the Minnesota DLI contractor licensing page is enough.
-- [ ] Reading book on the nightstand.
-- [ ] Dinner + two shakes to get protein near 150 g. Yin yoga 8:00–8:20. Self-care 8:40. Lights out **9:15**. If tonight slips to 9:45, tomorrow is a 5:00 Yellow day: 45-minute session, 45-minute study.
+- [ ] Fluids and bland food through the day; a shake when it stays down. Do not force 150 g today.
+- [ ] Alarm 4:30 across the room. Phone charger outside the bedroom.
+- [ ] Training clothes, work outfit, shoes laid out. Bar, bands, kettlebell, vest, step-up box staged in the sunroom.
+- [ ] Scale, tape, phone in the bathroom. Crucial Conversations + pen + notebook on the nightstand. MN Residential Code on the study desk.
+- [ ] Lights out 9:15 or earlier. If you still feel sick at 9 PM, tomorrow is a Red day: walk only, no lifting, and Day 1 moves again. Health first, always.
 
-### Day 1 — Thursday, October 8
+### Day 1 — Friday, October 9
 
 | Time | Action |
 |---|---|
 | 4:30 | Wake. Bed. Face. Water + electrolytes. |
-| 4:35 | **Baselines, before food:** weight · waist at navel · hips at widest · photos front/side/back. Into the Week 1 tracker row. |
-| 4:45 | Dress, small carb bite. |
-| 4:55–6:05 | **Heavy Glute B, Stage 0:** banded RDL 3×12–15 with 3-s lowering · banded barbell glute bridge 3×15–20 · reverse lunges DBs + vest 3×10/leg · step-ups 3×10/leg · single-leg KB RDL 3×10/leg · band lateral walks 2×15 · Core B. RIR 3 on everything. **Film the RDL from the side.** |
+| 4:35 | **Baselines, before food:** weight · waist at navel · hips at widest · photos front/side/back → Week 1 tracker row. |
+| 4:55–6:05 | **Heavy Glute B, Stage 0** (moved from Thursday): banded RDL 3×12–15 · banded glute bridge 3×15–20 · reverse lunges 3×10/leg · step-ups 3×10/leg · single-leg KB RDL 3×10/leg · band lateral walks 2×15 · Core B. RIR 3. Film the RDL. Still weak? 2 sets each, skip Core B. No run today. |
 | 6:05–6:30 | 10-min yoga flow, breakfast 40 g protein, floss. |
 | 6:30–6:55 | Shower, skincare + SPF, hair, dressed. |
-| 6:55–7:45 | **Study session 1: map the exam.** Current DLI requirements, exam provider, content outline, reference list, passing score, question count, time limit, fees. Build the chapter checklist. No content yet. |
+| 6:55–7:45 | **Study session 1: map the exam.** DLI requirements, provider, outline, references, passing score, question count, time limit, fees. Build the chapter checklist. |
 | 7:45–8:00 | Top 3 business outcomes. Crew plan. |
-| Workday | Thursday theme: estimates second pass (A), follow-ups (B), invoicing (admin). Use Buffer 1 to **order plates, a bar pad, and two stall mats.** |
-| 5:15 PM | Treadmill walk, easy, no vest (heavy legs). |
-| 5:45 | Dinner, kitchen reset. |
-| 6:20 | 10-min reset + Thursday kitchen task. Lay out Friday. |
-| 6:40 | Reading. |
-| 7:10 | Flex block. Decide tomorrow's color at 7:00. |
-| 8:40 | Skincare, floss PM, hair. Phone out. Fill the daily tracker row. |
+| Workday | Friday theme: growth (A), next-week scheduling (B), **first cash-flow review** (admin). Buffer 1: **order plates, bar pad, two stall mats, two space heaters + smart plug, notebook, index cards.** |
+| 5:15 PM | Treadmill walk, easy. |
+| 6:40 | Crucial Conversations, chapter 1, with the protocol. |
+| 8:00 | Restorative yoga 20 min. |
 | 9:15 | Lights out. |
 
-### Day 2 — Friday, October 9
+### Day 2 — Saturday, October 10
 
-Upper B + 8-min glute floor + 1.5 mi run/walk + Crush Your Core (Week 1 of the rotation). Study: first content block (business/law). Work: growth (A), next-week scheduling (B), **first weekly cash-flow review** (admin). Walk with optional 10 lb vest. Restorative yoga 8:00 PM.
+Glute C pump (non-negotiable) + a **20-min Rhythm Ride instead of HIIT** (no HIIT in a week that started sick). Study 90 min, business catch-up 60 min, Future block, deeper clean + laundry load 2, walk. Book Sunday's heated Pilates class only if you feel fully back.
 
-### Day 3 — Saturday, October 10
+### Day 3 — Sunday, October 11: first Sunday reset
 
-Glute C pump (non-negotiable) + one HYROX Training Program class at **3 rounds**. Then study 90 min (first timed mini-section), business catch-up 60 min, Future block (FBA 45 / trading 45), deeper clean + laundry load 2, walk. Book a Sunday morning heated Pilates class if you have not.
-
-### Day 4 — Sunday, October 11: first Sunday reset
-
-Wake by 5:30. Book B 5:30. Business review 6:00, three priorities for the week of Oct 12. Money review 6:30 with the first property-fund transfer. Heated Pilates (rate it 1–10). Meal prep. Clean + linens. Walk 1:00. Self-care hour. Monday prep. Power yoga 3:30. Reflection 6:15: fill the Week 1 row with Thursday's baselines and four days of data. **No ice bath yet** (November 8).
+Wake by 5:30. Book B. Business review 6:00, three priorities for the week of Oct 12. Money review 6:30 with the first property-fund transfer. Heated Pilates if fully well (skip the heat if not; do the 45-min power yoga at 3:30 either way). Meal prep. Clean + linens. Walk. Self-care hour. Monday prep. Reflection 6:15: fill the Week 1 row. **No ice bath yet** (November 8).
 
 ### Monday, October 12 onward
 
-The full Monday–Sunday template runs. Heavy Glute A on Monday is your first hip thrust session: Stage 0 with the bar and bands until the plates arrive, Stage 1 the same week they do.
+The full Monday–Sunday template runs. Heavy Glute A on Monday is your first hip thrust session: Stage 0 with the bar and bands until the plates arrive, Stage 1 the same week they do. Upper B was skipped this week; it costs nothing.
 
 ### Launch-week rules
 
-- Lights out 9:15 every one of these four nights. The habit you are installing is the bedtime, not the workout.
-- Protein 150 g every day from Day 1. Dinner plus two shakes counts.
-- Everything in these four days is RIR 3. You cannot be too conservative in a launch week.
-- The first Green/Yellow/Red call happens at 7:00 PM on Day 1.
+- Lights out 9:15 every night. The habit you are installing is the bedtime, not the workout.
+- Protein 150 g from Day 1 (Day 0 excepted). Dinner plus two shakes counts.
+- Everything in these three days is RIR 3. You cannot be too conservative in a launch week.
+- A sick day is a Red day, and a Red day is the system working.
 
 ---
 
@@ -584,7 +573,7 @@ Your home reformer session should spend 10–15 of its 40 minutes on footwork, f
 | Sat | Glute C pump, 25 min, all isolation | Before conditioning |
 | Sun | Side-lying leg and bridging series | Inside heated Pilates |
 
-**Rotating: three Peloton slots a week on a four-week cycle (Week 1 = Oct 8–18, then Oct 19, Oct 26, Nov 2, repeat).**
+**Rotating: three Peloton slots a week on a four-week cycle (Week 1 = Oct 9–18, then Oct 19, Oct 26, Nov 2, repeat).**
 
 | Week | Wed ride slot (20–25 min, after reformer) | Sat conditioning (25 min, after Glute C) | Fri 10-min slot | Sun 30 min |
 |---|---|---|---|---|
@@ -1081,7 +1070,7 @@ Copy this row into a notes app or spreadsheet, one line a day. Fill it at 6:15 P
 
 | Date | Color (G/Y/R) | Wake time | Lights out | Total sleep (h) | Water (oz) | Protein (g) / kcal adequate? (Y/N) | Workout done (session) | Walk (min) / steps | Core (Y/N/n-a) | Reading (min) | Bed made | Floss AM | Floss PM | Self-care AM/PM | 10-min reset | Business top 3 done (0–3) | Study (min) | Energy/soreness (1–5) | Note (one line) |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Thu 10/8 | | | | | | | | | | | | | | | | | | | |
+| Fri 10/9 | | | | | | | | | | | | | | | | | | | |
 
 **Patterns, not days.** Once a week, scan the column, not the row. Questions: How many Green days? What was lights-out on the Red days? Which day of the week do you miss reading? Does protein drop on field-heavy days? That is what the tracker is for.
 
@@ -1093,7 +1082,7 @@ Fill every Sunday 6:15 PM.
 
 | Week | Dates | Avg body weight (lb) | Waist (in, at navel) | Hips/glutes (in, widest) | Photos (every 2 wks: F/S/B) | Hip thrust best set (lb × reps @ RIR) | RDL best set | Squat variant best set | Glute hard sets | Running miles | Pilates (heated / home) | Rhythm Rides | HIIT | Walks (of 7) | Avg sleep (h) | Nights ≥7 h (of 7) | Days protein ≥150 g (of 7) | Days kcal ≥1,800 (of 7) | Green / Yellow / Red | Business: top wins (2–3 words) | Study hours | Practice-Q % | Money saved to property fund | Ice bath (Y/N) | One change for next week |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 10/8–10/18 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
+| 1 | 10/9–10/18 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
 | 2 | 10/19–10/25 | | | | | | | | | | | | | | | | | | | | | | | — | |
 | 3 | 10/26–11/1 | | | | ✓ | | | | | | | | | | | | | | | | | | | — | |
 | 4 | 11/2–11/8 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1115,7 +1104,7 @@ Fill every Sunday 6:15 PM.
 
 | Phase | Weeks | Dates | Training | Nutrition and sleep | Everything else |
 |---|---|---|---|---|---|
-| **1 — Consistency, technique, baseline** | 1–4 | Oct 8 – Nov 8 | Stage 0 for weeks 1–2 (empty bar, bands, vest), **Stage 1 the week plates arrive**. RIR 3 on main lifts, 3 sets. Running builds 4 → 6 mi. One Rhythm Ride. HIIT 3 rounds. Film hip thrust and RDL in weeks 1 and 4 | Hit 150 g protein and the 2,100 floor **every day**; this is the hard part on the medication. Lights out 7:45 six nights of seven. Build fiber slowly | Study ~7 h/week, exam mapped by week 2. Daily reset and reading habit locked in. First Green/Yellow/Red counts. Ice bath begins Sunday of week 4 |
+| **1 — Consistency, technique, baseline** | 1–4 | Oct 9 – Nov 8 | Stage 0 for weeks 1–2 (empty bar, bands, vest), **Stage 1 the week plates arrive**. RIR 3 on main lifts, 3 sets. Running builds 4 → 6 mi. One Rhythm Ride. HIIT 3 rounds. Film hip thrust and RDL in weeks 1 and 4 | Hit 150 g protein and the 2,100 floor **every day**; this is the hard part on the medication. Lights out 7:45 six nights of seven. Build fiber slowly | Study ~7 h/week, exam mapped by week 2. Daily reset and reading habit locked in. First Green/Yellow/Red counts. Ice bath begins Sunday of week 4 |
 | **2 — Overload and conditioning** | 5–8 | Nov 9 – Dec 6 | 4th set on hip thrust, RDL, main press, main row. Rep ranges shift to 8–10. RIR 2. Saturday HIIT to 4 rounds. Stage 2 if the rack arrives. **Week 8 is a conditional light week**: if 2+ fatigue flags in week 7 (sleep down 4+ nights, RHR +5, lifts down, joints, flat mood), cut to 2 sets, keep loads, skip HIIT | Reassess calories at week 4 and 8 with the Section 9 table. Most likely adjustment on tirzepatide is *up*, not down | Study: all content covered by week 8, first full timed practice exam. Reading: 4 books done. Business: themed days running; Friday cash review habitual |
 | **3 — Hypertrophy progression and evaluation** | 9–12 | Dec 7 – Jan 3 | Hip thrust and RDL 4 × 6–8 at RIR 1–2 plus a back-off set. Unilateral work loaded as heavy as equipment allows. Week 12: work up to a 6-rep hip thrust and 6-rep RDL at RIR 1 and record them. Then a full deload week (Jan 4–10: 50% sets, 80% loads, no HIIT) before block 2 | Hold whatever intake the data says. Holidays: protein and sleep first, everything else flexible for the day, back to normal the next morning | Study: weak-area drill, second practice exam, **exam scheduled** for week 11–12 if ready. Reading: 6 books. Business: year-end numbers; set Q1 priorities during the Sunday review of week 12 |
 
@@ -1165,6 +1154,7 @@ By March you will have completed the 12-week block, a deload, and about 8 weeks 
 | Priority | Item | Why | Rough cost |
 |---|---|---|---|
 | **1 (now)** | **Plates: ~160–200 lb to start** (pair of 45s, pair of 25s, pair of 10s, pair of 5s, pair of 2.5s = 175 lb) + a **thick hip-thrust bar pad** | Unlocks loaded hip thrusts, RDLs, front/Zercher squats, rows, floor presses. This is 80% of your glute program. Iron plates are cheapest; bumpers are quieter at 3:25 AM | $200–400 |
+| **1b (now)** | **Two space heaters + a smart plug:** a 1500 W oil-filled radiator on a smart plug (on at 3:45 AM) and a 1500 W ceramic fan heater for the lifting spot, on different outlets from the Tread | The sunroom will not be usable at 4:30 AM in a Minnesota winter without them | $90–150 |
 | **2 (week 1–2)** | **A hip-thrust bench or box at 14–16 in** if you do not already have a stable one | Hip thrusts and step-ups need a surface that does not slide | $0–100 |
 | **3 (weeks 4–8)** | **Squat rack** (a half rack with safety arms; one with a pull-up bar adds hanging core and rows for free) | Back squats, barbell Bulgarian split squats, safe overhead and bench pressing. Nice to have for glutes; essential for long-term loading and safety when alone at 3:30 AM | $250–600 |
 | **4 (weeks 4–8)** | **Adjustable bench** (if you buy a rack) | Bench press, incline, step-ups, hip thrusts at the right height | $120–250 |
