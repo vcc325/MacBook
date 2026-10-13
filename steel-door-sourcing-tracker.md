@@ -2,7 +2,7 @@
 
 Spec: 36" x 80" commercial hollow-metal steel doors. Door 1 + 2: LH swing, bottom louver ~12" from bottom edge. Door 3: RH swing, no louver. Match existing commercial steel panel door style. Confirm handing, dimensions, vent, and frame compatibility before ordering. No substitutions or quantity changes without Valerie's approval. No order, deposit, or payment without Valerie's approval.
 
-Photos: sent 12:49 PM as one combined JPEG, BCC to all five delivered suppliers (CDS, TCH, Dorwin, Contract Hardware, Assured Security), subject "PHOTOS — RE: URGENT...". Minneapolis Steel Door never received anything (bounce).
+Photos: sent 12:49 PM as one combined JPEG, BCC to all five delivered suppliers (CDS, TCH, Dorwin, Contract Hardware, Assured Security); also attached to the 1:30 PM BMO email, subject "PHOTOS — RE: URGENT...". Minneapolis Steel Door never received anything (bounce).
 
 ## Emails sent Tue Oct 13, 2026 at 12:31 PM CDT (batch 1) and 12:32 PM CDT (batch 2)
 
@@ -14,6 +14,7 @@ Photos: sent 12:49 PM as one combined JPEG, BCC to all five delivered suppliers 
 | Contract Hardware Co., Lino Lakes (Todd McGowan) | tmcgowan@chcmn.net (CONFIRMED, he replied) | 651-780-0010 | SENT 12:31 PM. REPLIED 12:42 PM: cannot do it. No louvers in stock, ~1 week to get them. Soonest complete: Thu Oct 22. | NO for louvered doors | Oct 22 earliest | Not quoted | Asked 12:50 PM whether he can supply the ONE plain RH door for pickup today/tomorrow |
 | Twin City Hardware (TCH), 723 Hadley Ave N, Oakdale — has an in-house Hollow Metal shop | sales@tchco.com (two directory listings; residential@tchco.com is the showroom) | 651-735-2200 main; 763-535-4660 New Hope | SENT 12:32 PM | Pending | Pending | Pending | Call 651-735-2200, ask for Hollow Metal shop (manager Ricky Aguilera per directory) |
 | Assured Security, 9905 Lyndale Ave S, Bloomington (installer/supplier, M–F 8–5) | Service@AssuredSecurityMN.com (their About page) | 952-881-0896 / 612-567-5595 | SENT 12:32 PM | Pending | Pending | Pending | Call back 3:00 PM |
+| Building Materials Outlet Midwest (BMO), 3045 Sibley Memorial Hwy, Eagan 55121 (surplus/closeout building materials, carries commercial steel doors) | info@bmomn.com (their site contact) | 651-365-1141 | SENT 1:30 PM with combined photo attached | Pending | Pending | Pending | Closeout yard, stock changes daily. Call 651-365-1141 at 2:15 PM, ask if they have 36x80 hollow metal slabs on the floor; louvers may need to be field-cut |
 | Wheeler Hardware Co, 2645 Fairview Ave N, Roseville (hollow metal distributor) | NONE verified. Directory pattern only (first initial + last name @wheelerhardware.com), not used | 651-645-4501 (alt 651-645-9943) | NOT SENT, no verified address | — | — | — | CALL. Ask for hollow metal sales. VP: Ryan Ketz |
 | Home Depot (Minneapolis-area stores) | n/a, in-store | store | n/a | Online shows L-I-F Industries 36x80 louvered commercial door w/ hardware, UKR3680L (LH) / UKR3680R (RH), ~$1,048; Armor Door 36x80 LH flush w/ KD frame ~$1,029. Store stock UNKNOWN | Check app "pickup today" by store | ~$1,029–1,048 ea list | Fallback only. Louver position must be checked against spec |
 
