@@ -8,7 +8,7 @@ Photos: NOT attached to any email. The two building/door photos were not in this
 
 | Supplier | Verified email | Phone | Email sent / draft | Stock confirmed | Earliest pickup/delivery | Total price | Follow-up status |
 |---|---|---|---|---|---|---|---|
-| Minneapolis Steel Door, Brooklyn Park | info@minneapolissteeldoor.com (listed on their own site) | 763-323-1200 | SENT 12:31 PM | Pending | Pending | Pending | Call back 2:30 PM if no reply |
+| Minneapolis Steel Door, 3601 85th Ave N Ste B, Brooklyn Park 55443 (7:30–4:30) | info@minneapolissteeldoor.com BOUNCED 12:31 PM (550 address not found). No other published address. | 763-323-1200 | SENT, BOUNCED | — | — | — | PHONE ONLY. Call again at 1:30 and 3:30, or drive by, they are 20 min from Golden Valley. Their site contact form is the only other route |
 | Dorwin Hardware Co, 8140 Arthur St NE Ste G, Spring Lake Park (M–F 9–4) | sales@dorwinhardware.com (their site contact section) | 651-315-9281 | SENT 12:31 PM | Pending | Pending | Pending | Call back 2:30 PM; they close at 4 |
 | Commercial Door Systems LLC, 7670 Commerce St, Corcoran (Ceco distributor, stocks metal doors) | ryan@comdoorsys.com (Ryan Baer, President, from their capabilities statement; ext. 121) | 763-494-9533 x121 | SENT 12:31 PM | Pending | Pending | Pending | Best local stock lead. Call x121 at 2:00 PM if no reply |
 | Contract Hardware Co., Lino Lakes | tmcgowan@chcmn.net (listed on their site) | 651-780-0010 | SENT 12:31 PM | Pending | Pending | Pending | Call back 2:30 PM |
