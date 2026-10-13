@@ -2,7 +2,7 @@
 
 Spec: 36" x 80" commercial hollow-metal steel doors. Door 1 + 2: LH swing, bottom louver ~12" from bottom edge. Door 3: RH swing, no louver. Match existing commercial steel panel door style. Confirm handing, dimensions, vent, and frame compatibility before ordering. No substitutions or quantity changes without Valerie's approval. No order, deposit, or payment without Valerie's approval.
 
-Photos: NOT attached to any email. The two building/door photos were not in this chat. Emails say "photos available immediately on request." Send them the moment a supplier replies.
+Photos: sent 12:49 PM as one combined JPEG, BCC to all five delivered suppliers (CDS, TCH, Dorwin, Contract Hardware, Assured Security), subject "PHOTOS — RE: URGENT...". Minneapolis Steel Door never received anything (bounce).
 
 ## Emails sent Tue Oct 13, 2026 at 12:31 PM CDT (batch 1) and 12:32 PM CDT (batch 2)
 
@@ -11,7 +11,7 @@ Photos: NOT attached to any email. The two building/door photos were not in this
 | Minneapolis Steel Door, 3601 85th Ave N Ste B, Brooklyn Park 55443 (7:30–4:30) | info@minneapolissteeldoor.com BOUNCED 12:31 PM (550 address not found). No other published address. | 763-323-1200 | SENT, BOUNCED | — | — | — | PHONE ONLY. Call again at 1:30 and 3:30, or drive by, they are 20 min from Golden Valley. Their site contact form is the only other route |
 | Dorwin Hardware Co, 8140 Arthur St NE Ste G, Spring Lake Park (M–F 9–4) | sales@dorwinhardware.com (their site contact section) | 651-315-9281 | SENT 12:31 PM | Pending | Pending | Pending | Call back 2:30 PM; they close at 4 |
 | Commercial Door Systems LLC, 7670 Commerce St, Corcoran (Ceco distributor, stocks metal doors) | ryan@comdoorsys.com (Ryan Baer, President, from their capabilities statement; ext. 121) | 763-494-9533 x121 | SENT 12:31 PM | Pending | Pending | Pending | Best local stock lead. Call x121 at 2:00 PM if no reply |
-| Contract Hardware Co., Lino Lakes | tmcgowan@chcmn.net (listed on their site) | 651-780-0010 | SENT 12:31 PM | Pending | Pending | Pending | Call back 2:30 PM |
+| Contract Hardware Co., Lino Lakes (Todd McGowan) | tmcgowan@chcmn.net (CONFIRMED, he replied) | 651-780-0010 | SENT 12:31 PM. REPLIED 12:42 PM: cannot do it. No louvers in stock, ~1 week to get them. Soonest complete: Thu Oct 22. | NO for louvered doors | Oct 22 earliest | Not quoted | Asked 12:50 PM whether he can supply the ONE plain RH door for pickup today/tomorrow |
 | Twin City Hardware (TCH), 723 Hadley Ave N, Oakdale — has an in-house Hollow Metal shop | sales@tchco.com (two directory listings; residential@tchco.com is the showroom) | 651-735-2200 main; 763-535-4660 New Hope | SENT 12:32 PM | Pending | Pending | Pending | Call 651-735-2200, ask for Hollow Metal shop (manager Ricky Aguilera per directory) |
 | Assured Security, 9905 Lyndale Ave S, Bloomington (installer/supplier, M–F 8–5) | Service@AssuredSecurityMN.com (their About page) | 952-881-0896 / 612-567-5595 | SENT 12:32 PM | Pending | Pending | Pending | Call back 3:00 PM |
 | Wheeler Hardware Co, 2645 Fairview Ave N, Roseville (hollow metal distributor) | NONE verified. Directory pattern only (first initial + last name @wheelerhardware.com), not used | 651-645-4501 (alt 651-645-9943) | NOT SENT, no verified address | — | — | — | CALL. Ask for hollow metal sales. VP: Ryan Ketz |
